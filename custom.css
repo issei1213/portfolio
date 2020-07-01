@@ -18,15 +18,17 @@
 .fa {
   font-size: 20px;
   margin-right: 5px;
-
 }
 
 .card-header {
   height: 50px;
   background-color: #ffffff;
 }
-/* 
-.github {
-  font-size: 10px;
 
-} */
+.bg-production {
+  background-color: #FF9900;
+}
+
+.bg-document {
+  background-color: #DD5144
+}
