@@ -11,7 +11,7 @@
 
 
 .skill {
-  height: 100vh;
+  /* height: 110vh; */
   background-color: #E6DDC3;
 }
 
@@ -25,3 +25,8 @@
   height: 50px;
   background-color: #ffffff;
 }
+/* 
+.github {
+  font-size: 10px;
+
+} */
