@@ -7,6 +7,23 @@
   padding: 1.25rem;
 }
 
+.about {
+  background-color: #E6E9DF;
+}
+
+.skill {
+  background-color: #F2F5EB;
+}
+
+.portfolio {
+  background-color: #E6E9DF;
+}
+
+.contact {
+  background-color: #F2F5EB;
+}
+
+
 
 .card-header {
   height: 50px;
