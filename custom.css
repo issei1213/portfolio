@@ -1,32 +1,32 @@
-.top {
-  height: 100vh;
-  background-image: url("img/top.jpg");
+/* .jumbotron { 
+  background:url("img/top.jpg") center no-repeat; 
   background-size: cover;
-}
-
-.about {
-  /* height: 110vh; */
-  background-color: #FFFCF2;
-}
+} */
 
 
-.skill {
-  /* height: 110vh; */
-  background-color: #E6DDC3;
+/* .top { */
+  /* height: o; */
+  /* padding-top: 66.6666666667%; */
+  /* background: url("img/top.jpg"); */
+  /* background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover; */
+  /* position: relative; */
+/* } */
+
+/* .image {
+  position: relative;
+} */
+
+.text {
+  position: absolute;
+  top: 100px;
+  right: 0;
+  bottom: 0;
+  left: 100px;
+  padding: 1.25rem;
 }
 
-.portfolio {
-  background-color: #FFFCF2;
-}
-
-.contact {
-  background-color: #E6DDC3;
-}
-
-.fa {
-  font-size: 20px;
-  margin-right: 5px;
-}
 
 .card-header {
   height: 50px;
