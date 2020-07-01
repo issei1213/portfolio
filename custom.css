@@ -15,6 +15,14 @@
   background-color: #E6DDC3;
 }
 
+.portfolio {
+  background-color: #FFFCF2;
+}
+
+.contact {
+  background-color: #E6DDC3;
+}
+
 .fa {
   font-size: 20px;
   margin-right: 5px;
@@ -31,4 +39,8 @@
 
 .bg-document {
   background-color: #DD5144
+}
+
+.fa.fa-twitter{
+  font-size: 30px;
 }
