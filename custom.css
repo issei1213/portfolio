@@ -24,3 +24,16 @@
 .fa.fa-twitter{
   font-size: 30px;
 }
+
+.btn.btn-outline-success {
+  border: 3px solid #21BDDB;
+  color: #21BDDB;
+}
+
+.bg-wantedly {
+  border: 1px solid #21BDDB; 
+}
+
+.fa.fa-github.contact{
+  font-size: 30px;
+}
