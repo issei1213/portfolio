@@ -7,6 +7,9 @@
   padding: 1.25rem;
 }
 
+.bg-navbar {
+  background-color: #EBF5F7;
+}
 .about {
   background-color: #E6E9DF;
 }
